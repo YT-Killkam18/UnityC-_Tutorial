@@ -1,2 +1,3 @@
 # UnityCS_Tutorial
-Lubie placki
+
+Pliki z serii unity c#
